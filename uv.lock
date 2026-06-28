@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "bob-std"
+name = "bobstd"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

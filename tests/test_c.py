@@ -9,7 +9,7 @@ def test_hello_world(unique_tmp_path: Path, bobfile: Path, builddir: Path):
     bobfile.write_text(
         dedent("""
             from bob.prelude import *
-            import bob_std.c as c
+            import bobstd.c as c
             
             c.toolchain("gcc", "ar")
 

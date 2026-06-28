@@ -1,7 +1,7 @@
 [project]
-name = "bob-std"
+name = "bobstd"
 version = "0.1.0"
-description = "Add your description here"
+description = "Unopinionated plugins for building common things with Bob."
 readme = "README.md"
 authors = [{ name = "Noam Zaks", email = "noam@noamzaks.com" }]
 requires-python = ">=3.12"
